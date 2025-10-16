@@ -16,4 +16,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
