@@ -9,3 +9,11 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 - Greedy Algorithms 
 - Searching and Sorting 
 - Bit Manipulation
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
+<!---LeetCode Topics End-->
