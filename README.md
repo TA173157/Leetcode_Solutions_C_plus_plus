@@ -17,6 +17,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
 ## Array
 |  |
 | ------- |
@@ -41,6 +42,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
