@@ -15,6 +15,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
 ## Array
 |  |
@@ -32,10 +33,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
