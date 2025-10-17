@@ -20,8 +20,13 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
