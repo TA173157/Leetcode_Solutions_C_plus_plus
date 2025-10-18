@@ -33,18 +33,21 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 ## Linked List
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0092-reverse-linked-list-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -53,4 +56,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
