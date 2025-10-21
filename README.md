@@ -25,6 +25,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Hash Table
 |  |
@@ -34,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -69,4 +71,5 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0015-3sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
