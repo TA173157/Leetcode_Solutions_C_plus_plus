@@ -19,6 +19,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0007-reverse-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
+| [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 ## Array
 |  |
 | ------- |
@@ -46,6 +47,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0092-reverse-linked-list-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
+| [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -72,4 +74,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0015-3sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
