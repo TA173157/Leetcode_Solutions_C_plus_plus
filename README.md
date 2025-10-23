@@ -19,6 +19,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0007-reverse-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 ## Array
 |  |
@@ -65,6 +66,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
