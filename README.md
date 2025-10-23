@@ -29,6 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
@@ -63,6 +64,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 ## Divide and Conquer
 |  |
