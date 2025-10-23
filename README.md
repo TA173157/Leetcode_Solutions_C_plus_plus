@@ -32,6 +32,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
+| [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
 | ------- |
