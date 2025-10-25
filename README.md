@@ -111,4 +111,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
 <!---LeetCode Topics End-->
