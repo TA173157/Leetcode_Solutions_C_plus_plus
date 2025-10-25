@@ -20,6 +20,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 ## Array
 |  |
@@ -102,4 +103,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
