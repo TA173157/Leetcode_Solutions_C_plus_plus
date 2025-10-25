@@ -46,6 +46,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
 |  |
@@ -56,6 +57,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
