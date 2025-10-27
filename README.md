@@ -34,6 +34,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0027-remove-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -50,6 +51,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0908-middle-of-the-linked-list) |
@@ -93,6 +95,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Sorting
@@ -121,4 +124,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
