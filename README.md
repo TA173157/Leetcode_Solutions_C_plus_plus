@@ -35,6 +35,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
+| [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -114,6 +115,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 ## Number Theory
 |  |
@@ -132,4 +134,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
