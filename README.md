@@ -18,6 +18,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
@@ -35,6 +36,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
@@ -137,5 +139,6 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
