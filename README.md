@@ -41,6 +41,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
@@ -48,6 +49,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
@@ -99,6 +101,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +114,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0015-3sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0018-4sum) |
+| [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -147,4 +151,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0048-rotate-image](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0074-search-a-2d-matrix) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
