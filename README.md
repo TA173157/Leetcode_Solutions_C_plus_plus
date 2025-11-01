@@ -24,6 +24,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [0908-middle-of-the-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
