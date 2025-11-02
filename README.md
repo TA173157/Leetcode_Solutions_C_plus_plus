@@ -121,6 +121,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0018-4sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 ## Reservoir Sampling
 |  |
 | ------- |
@@ -167,4 +168,5 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1205-defanging-an-ip-address](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
+| [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 <!---LeetCode Topics End-->
