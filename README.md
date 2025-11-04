@@ -51,6 +51,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
@@ -170,10 +171,15 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
