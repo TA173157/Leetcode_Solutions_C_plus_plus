@@ -12,12 +12,12 @@ class Solution {
 public:
     ListNode* removeNodes(ListNode* head) {
         vector<int>v;
-        ListNode * temp = head;
-    while(temp){
-       v.push_back(temp->val);
-       temp = temp->next;
+        
+    while(head){
+       v.push_back(head->val);
+       head = head->next;
     };
-    temp =head;
+    
    int end = v.size()-1;
  while(end>0){
     int len = max(v[end],v[end-1]);
