@@ -18,20 +18,15 @@ public:
        temp = temp->next;
     };
     temp =head;
-   int start =0,end=v.size()-1;
-   while(start<end){
-    if(v[start]<v[end]){
-        v.erase(v.begin()+start);
+   int end = v.size()-1;
+ while(end>0){
+    int len = max(v[end],v[end-1]);
+    if(len>v[end-1]){
+        v.erase(v.begin()+end-1);
         end--;
     }
-    else{
-        if(v[end]>v[end-1]){
-            v.erase(v.begin()+end-1);
-            end--;
-        }
-        else end--;
-    }
-   }
+    else end--;
+ }
    int size = v.size()-1;int i=1;
     ListNode* head1= new ListNode(v[0]);
      ListNode * temp1 = head1;
