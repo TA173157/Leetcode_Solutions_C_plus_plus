@@ -83,6 +83,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0002-add-two-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0141-linked-list-cycle) |
@@ -123,6 +124,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 ## Stack
 |  |
@@ -205,4 +207,12 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
