@@ -45,6 +45,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0932-monotonic-array) |
