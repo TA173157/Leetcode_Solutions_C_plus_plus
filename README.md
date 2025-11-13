@@ -49,6 +49,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0136-single-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -65,6 +66,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
@@ -152,6 +154,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0018-4sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
