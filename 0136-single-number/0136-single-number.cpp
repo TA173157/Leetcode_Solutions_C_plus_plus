@@ -1,6 +1,7 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
+        
         int start = 0 , end =1;
         while(end<nums.size()){
             if(nums[start]==nums[end]){
@@ -14,8 +15,7 @@ public:
             else end++;
         }
         for(int i=0;i<nums.size();i++){
-            if(nums[i]==30001)continue;
-            else return nums[i];
+            if(nums[i]!=30001)return nums[i];
         }
        return 0; 
     }
