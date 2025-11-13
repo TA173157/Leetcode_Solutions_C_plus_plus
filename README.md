@@ -136,6 +136,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0004-median-of-two-sorted-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0191-number-of-1-bits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0191-number-of-1-bits) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +179,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0029-divide-two-integers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
