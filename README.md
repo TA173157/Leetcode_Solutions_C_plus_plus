@@ -26,6 +26,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0070-climbing-stairs](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Array
@@ -47,6 +48,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0088-merge-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
@@ -62,6 +64,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -122,6 +125,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0069-sqrtx](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
@@ -146,6 +150,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0018-4sum](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
@@ -172,6 +177,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0029-divide-two-integers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
