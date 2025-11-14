@@ -68,6 +68,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -157,6 +158,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
@@ -186,6 +188,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0191-number-of-1-bits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
 ## Dynamic Programming
 |  |
@@ -213,6 +216,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
 | [0344-reverse-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
