@@ -1,16 +1,15 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-      while(s.size()!=0){
-        char c = s[s.size()-1];
-        for(int i=0;i<t.size();i++){
-            if(t[i]==c){
-                t.erase(t.begin()+i);
-                s.pop_back();
-                break;
-            }
-        }
-      }
-      return t[0];
+     int sum1=0; 
+    int sum2=0; 
+    for( char character : s){
+        sum1+= character-'a';
+    }
+    for( char character : t){
+        sum2+= character-'a';
+    }
+    sum2-=sum1;
+      return 'a'+sum2;
     }
 };
