@@ -129,6 +129,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0074-search-a-2d-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
@@ -240,4 +241,8 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
