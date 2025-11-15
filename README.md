@@ -217,6 +217,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [1205-defanging-an-ip-address](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1205-defanging-an-ip-address) |
