@@ -2,9 +2,9 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& nums) {
         set<int> present;
-        for(int i=0;i<nums.size();i++){
-            if(nums[i]>0){
-                present.insert(nums[i]);
+        for(int num : nums){
+            if(num>0){
+                present.insert(num);
             }
         }
         if(present.empty())return 1;
