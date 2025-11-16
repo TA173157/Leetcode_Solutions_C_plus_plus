@@ -52,6 +52,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
@@ -71,6 +72,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Two Pointers
