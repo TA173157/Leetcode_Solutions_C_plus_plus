@@ -27,6 +27,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -125,6 +126,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0206-reverse-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2573-remove-nodes-from-linked-list) |
 ## Binary Search
@@ -196,6 +198,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0191-number-of-1-bits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [1054-complement-of-base-10-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1054-complement-of-base-10-integer) |
 ## Dynamic Programming
