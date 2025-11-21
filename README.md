@@ -63,6 +63,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0932-monotonic-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0932-monotonic-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
+| [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -192,6 +193,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+| [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
 | ------- |
