@@ -64,6 +64,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
+| [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -230,6 +232,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
+| [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 ## String
 |  |
 | ------- |
