@@ -31,6 +31,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -68,6 +69,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Hash Table
 |  |
