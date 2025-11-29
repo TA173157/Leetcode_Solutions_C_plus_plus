@@ -63,6 +63,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0932-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
@@ -105,6 +106,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0908-middle-of-the-linked-list) |
+| [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
@@ -185,6 +187,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
