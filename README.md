@@ -67,6 +67,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
+| [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
@@ -205,6 +206,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+| [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 ## Number Theory
 |  |
