@@ -64,6 +64,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0932-monotonic-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0932-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
@@ -88,6 +89,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0697-degree-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0697-degree-of-an-array) |
+| [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
@@ -191,6 +193,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
+| [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
@@ -273,6 +276,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
