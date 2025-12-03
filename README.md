@@ -71,6 +71,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
+| [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -92,6 +93,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
 ## Two Pointers
@@ -195,6 +197,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
+| [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
@@ -263,6 +266,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1205-defanging-an-ip-address](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1205-defanging-an-ip-address) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
+| [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 ## Sliding Window
 |  |
