@@ -68,6 +68,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
@@ -196,6 +197,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
+| [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
