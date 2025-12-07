@@ -68,6 +68,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1470-shuffle-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
