@@ -68,6 +68,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
@@ -121,6 +122,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0908-middle-of-the-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 ## Linked List
@@ -170,6 +172,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0374-guess-number-higher-or-lower](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
 ## Divide and Conquer
 |  |
@@ -203,6 +206,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
