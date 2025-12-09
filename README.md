@@ -31,6 +31,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
 | [1013-fibonacci-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1822-sign-of-the-product-of-an-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
@@ -72,6 +73,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
