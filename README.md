@@ -79,6 +79,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1822-sign-of-the-product-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
@@ -101,6 +102,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [3046-split-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3046-split-the-array) |
 | [4107-find-missing-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/4107-find-missing-elements) |
@@ -214,6 +216,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1970-sorting-the-sentence](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1970-sorting-the-sentence) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2418-sort-the-people](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2418-sort-the-people) |
 | [2887-sort-vowels-in-a-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2887-sort-vowels-in-a-string) |
 | [3467-transform-array-by-parity](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/3467-transform-array-by-parity) |
@@ -233,6 +236,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Number Theory
 |  |
 | ------- |
@@ -294,6 +298,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0011-container-with-most-water](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0011-container-with-most-water) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting Sort
 |  |
 | ------- |
@@ -304,6 +309,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0215-kth-largest-element-in-an-array) |
+| [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Merge Sort
 |  |
 | ------- |
