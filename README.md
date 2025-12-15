@@ -70,6 +70,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1168-duplicate-zeros](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1168-duplicate-zeros) |
+| [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1470-shuffle-the-array) |
