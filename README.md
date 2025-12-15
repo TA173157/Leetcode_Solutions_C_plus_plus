@@ -78,6 +78,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [1480-running-sum-of-1d-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1480-running-sum-of-1d-array) |
 | [1619-mean-of-array-after-removing-some-elements](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1619-mean-of-array-after-removing-some-elements) |
 | [1646-kth-missing-positive-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-kth-missing-positive-number) |
+| [1646-get-maximum-in-generated-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-get-maximum-in-generated-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
@@ -237,6 +238,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | ------- |
 | [0054-spiral-matrix](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0258-add-digits) |
+| [1646-get-maximum-in-generated-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1646-get-maximum-in-generated-array) |
 | [1920-build-array-from-permutation](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1929-concatenation-of-array) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
