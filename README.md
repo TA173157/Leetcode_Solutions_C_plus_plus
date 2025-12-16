@@ -59,6 +59,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0215-kth-largest-element-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
@@ -126,6 +127,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0148-sort-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0908-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
