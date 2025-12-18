@@ -58,6 +58,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
@@ -100,6 +101,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0141-linked-list-cycle](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -301,6 +303,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0219-contains-duplicate-ii) |
 ## Greedy
 |  |
 | ------- |
