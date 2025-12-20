@@ -29,6 +29,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0268-missing-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0342-power-of-four) |
 | [0382-linked-list-random-node](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0382-linked-list-random-node) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0628-maximum-product-of-three-numbers) |
 | [1013-fibonacci-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -65,6 +66,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0628-maximum-product-of-three-numbers) |
 | [0697-degree-of-an-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0697-degree-of-an-array) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0792-binary-search](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0792-binary-search) |
@@ -221,6 +223,7 @@ This repository contains my solutions to Data Structures and Algorithms (DSA) pr
 | [0389-find-the-difference](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0414-third-maximum-number) |
 | [0561-array-partition](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0561-array-partition) |
+| [0628-maximum-product-of-three-numbers](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/0977-squares-of-a-sorted-array) |
 | [1122-relative-sort-array](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1122-relative-sort-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/TA173157/Leetcode_Solutions_C_plus_plus/tree/master/1385-find-the-distance-value-between-two-arrays) |
